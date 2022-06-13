@@ -16,7 +16,7 @@ also for users who have just switched to linux. The changeover should be as simp
 
 
 ###
-#### Checkout our [history](https://github.com/GoXLR-on-Linux/.github/history/README.md)
+#### Checkout our [history](https://github.com/GoXLR-on-Linux/.github/tree/main/history)
 
 
 ### Disclaimer
