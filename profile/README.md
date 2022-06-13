@@ -4,7 +4,7 @@
 
 [![Support Server](https://img.shields.io/discord/828348446775574548.svg?label=Discord&logo=Discord&colorB=7289da&style=flat)](https://discord.gg/Wbp3UxkX2j)
 
-<img src="../img/GoXLR-Linux.png" alt="Logo" height="200px" width="200px">
+![Logo](https://github.com/GoXLR-on-Linux/.github/img/GoXLR-Linux.png)
 </p>
 
 ## About
