@@ -4,7 +4,8 @@
 
 [![Support Server](https://img.shields.io/discord/828348446775574548.svg?label=Discord&logo=Discord&colorB=7289da&style=flat)](https://discord.gg/Wbp3UxkX2j)
 
-<img src="../img/GoXLR-Linux.png" alt="Logo" height="200px" width="200px">
+![Logo](../img/GoXLR-Linux.png "Logo")
+
 </p>
 
 ## About
