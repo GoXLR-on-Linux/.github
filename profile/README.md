@@ -3,7 +3,7 @@
 
 [![Support Server](https://img.shields.io/discord/828348446775574548.svg?label=Discord&logo=Discord&colorB=7289da&style=flat)](https://discord.gg/Wbp3UxkX2j)
 
-![Logo](../img/GoXLR-Linux.png "Logo")
+![Logo](https://github.com/GoXLR-on-Linux/.github/blob/main/img/GoXLR-Linux.png "Logo")
 
 
 ## About
