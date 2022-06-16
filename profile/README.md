@@ -1,15 +1,13 @@
 # GoXLR on Linux
 
-<p align="center">
 
 [![Support Server](https://img.shields.io/discord/828348446775574548.svg?label=Discord&logo=Discord&colorB=7289da&style=flat)](https://discord.gg/Wbp3UxkX2j)
 
 ![Logo](../img/GoXLR-Linux.png "Logo")
 
-</p>
 
 ## About
-This project is all about getting the GoXLR (mini) working properly on Linux. 
+This project is all about getting the GoXLR (and GoXLR mini) working properly on Linux. 
 The [GoXLR-Utility](https://github.com/GoXLR-on-Linux/GoXLR-Utility) is used to configure the GoXLR and works also on other Unix systems such as macOS.
 The main focus is on the last bits of the effects and the sampler now.
 After that we will focus on a GUI application to get a better user experience,
